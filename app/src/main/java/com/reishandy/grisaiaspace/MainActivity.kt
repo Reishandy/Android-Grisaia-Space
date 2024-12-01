@@ -57,7 +57,6 @@ fun GrisaiaLayout() {
     Surface(
         modifier = Modifier
             .fillMaxSize()
-            .padding(16.dp)
     ) {
         Column(
             modifier = Modifier.padding(16.dp).padding(top = 10.dp)
