@@ -59,7 +59,7 @@ fun GrisaiaLayout() {
             .fillMaxSize()
     ) {
         Column(
-            modifier = Modifier.padding(16.dp).padding(top = 10.dp)
+            modifier = Modifier.padding(24.dp).padding(top = 24.dp)
         ) {
             ImageContainer(
                 imageResID = imageResID,
