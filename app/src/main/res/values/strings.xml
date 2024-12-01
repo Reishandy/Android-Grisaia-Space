@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Grisaia Space</string>
+    <string name="button_next">Next</string>
+    <string name="button_prev">Prev</string>
+    <string name="name_yumiko">Sakaki Yumiko</string>
+    <string name="name_michiru">Matsushima Michiru</string>
+    <string name="name_sachi">Komine Sachi</string>
+    <string name="name_amane">Suou Amane</string>
+    <string name="name_makina">Irisu Makina</string>
+    <string name="name_kazuki">Kazami Kazuki</string>
+    <string name="description_yumiko">The nerd and sheltered \"Yandere\" Oujo-sama</string>
+    <string name="description_michiru">The blond tiwntail queen of all the \"Tsundere\"</string>
+    <string name="description_sachi">The way to \"Literal\" Maid that will do anything for you</string>
+    <string name="description_amane">The \"Onee-san\" that will take care of you</string>
+    <string name="description_makina">The \"Daughter\" loli with spec ops skills</string>
+    <string name="description_kazuki">The \"Actual Onee-san\" but also an clone? idk</string>
+</resources>
